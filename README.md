@@ -1,4 +1,4 @@
-# My Scoreboard Project
+# My Scoreboard Project Sa
 Install the dependencies and run the project
 ```
 npm install
